@@ -3,8 +3,12 @@ toc:
     subfolderitems:
       - page: About ytt
         url: /
+  - title: Concepts
+    subfolderitems:
       - page: How it Works
         url: /how-it-works
+      - page: How ytt Annotates YAML
+        url: /yaml-primer
   - title: Techniques
     subfolderitems:
       - page: Using data values
